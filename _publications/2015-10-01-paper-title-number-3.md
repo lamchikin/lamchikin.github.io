@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Urine Exposome–Metabolome Network Analysis Identifies Differential Chemical Connectivity Associated with Mild Cognitive Impairment"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
