@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-=====
-I am Dr. Chi-Kin Lam, a Lecturer in the Faculty of Applied Sciences at Macao Polytechnic University. My academic and professional journey is rooted in a deep passion for statistics and its application to complex, real-world problems.
+Hi, 
+
+I am Chi-Kin Lam, a Lecturer in the Faculty of Applied Sciences at Macao Polytechnic University. My academic and professional journey is rooted in a deep passion for statistics and its application to complex, real-world problems.
 
 My research interests are centered on Bayesian statistical methodology and computation, with applications in diverse fields such as clinical trial design, drug development, change-point detection, and data mining. I am also keenly interested in statistical learning, feature screening, and portfolio selection.
 
