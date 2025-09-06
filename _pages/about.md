@@ -13,4 +13,4 @@ My research interests are centered on Bayesian statistical methodology and compu
 
 I earned my Ph.D. in Statistics and Actuarial Science from The University of Hong Kong. Prior to my doctoral studies, I completed a Master of Science in Financial Mathematics and Statistics at The Hong Kong University of Science and Technology and a Bachelor of Science in Statistics at Nankai University.
 
-My work has been published in respected academic journals, including Nature Human Behaviour, the Journal of the Royal Statistical Society: Series C (Applied Statistics), and Quantitative Finance.
+My work has been published in Nature Human Behaviour, Journal of the Royal Statistical Society: Series C (Applied Statistics), and Quantitative Finance.
