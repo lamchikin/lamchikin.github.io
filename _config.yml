@@ -25,12 +25,12 @@ author:
   avatar           : "profile.png"
   name             : "Chi-Kin Lam"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "Lecturer, Faculty of Applied Sciences, Macao Polytechnic University"
   location         : # "Earth"
   employer         : "Macao Polytechnic University"
   uri              : # URL
   email            : "cklamsta@gmail.com"
-  Email2 : "cklamsta@gmail.com"
+  Email2           : # "cklamsta@gmail.com"
 
   # Academic websites
   academia         : # URL
